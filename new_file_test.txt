@@ -5,3 +5,5 @@ content.addEventListener("touchend", function(){
 content.addEventListener("click", function(){  
      content.style.background = "#00F";  
 });  
+
+//remove the bug
